@@ -4,7 +4,7 @@ Hi 👋 My name is Arthur Goncalves
 Game Developer | Game Designer | Game Programmer
 ------------------------------------------------
 <p align="left">
-  Since I entered college I foung that Programming is my passion. I've been learning Unity since 2020,<br>
+  Since I entered college I discovered that Programming is my passion. I've been learning Unity since 2020,<br>
   and I've been developing myself to become a better programmer since them.
 </p>
 
@@ -15,8 +15,9 @@ Game Developer | Game Designer | Game Programmer
 ## Work Projects
 
 <p align="left">
-Currently I am working at AlphaStudios which develops games most of them with educational purposes.<br>
-I am the Programm Leader and we have been released some games since them.
+Currently I am working at AlphaStudios, a new born Game Studio, part of Instituto Alpha Lumen.<br>
+There, I am the Programm Leader, Game Design Supervisor and also one of the Programmers.<br>
+We made two games and currently we are working on a new one.
 </p>
 
 * ### Perigos Virtuais
