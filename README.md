@@ -10,6 +10,41 @@ Since I entered college I foung that Programming is my passion. I've been learni
 * ✉️  You can contact me at [arthurga54@gmail.com](mailto:arthurga54@gmail.com)
 * 🧠  I'm learning .NET | Figma | MySQL
 
+### Work Projects
+
+<p align="left">
+Currently I am working at AlphaStudios which develops games most of them with educational purposes. I am the Programm Leader and we have been released some games since them.
+</p>
+
+#### Perigos Virtuais
+
+
+#### Caminhos de Triskel
+
+
+### College Projects
+<p align="left"> 
+Since I entered college I became part of CEGI, which is a group of students, lead by Teacher Vanessa Pereira, that develop games with educational purposes too, I am one of the programmers there and I had a great journey there.
+I've taught an Untiy Course at College and in 2025 I became the Programm Leader.
+</p>
+
+#### Games done chronologically
+
+##### Chuva de Tesouros
+<img src="https://github.com/SimpleG20/">
+##### Feira de Bugigangas
+<img src="https://github.com/SimpleG20/">
+##### Tempo Voa
+<img src="https://github.com/SimpleG20/">
+##### Marketplay (SBGames)
+<img src="https://github.com/SimpleG20/">
+##### Amélia pelo Mundo
+<img src="https://github.com/SimpleG20/">
+
+### Personal Projects
+
+
+
 ### Skills
 
 
@@ -21,7 +56,3 @@ Since I entered college I foung that Programming is my passion. I've been learni
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/SimpleG20" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
-<a href="https://github.com/SimpleG20" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimpleG20&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
