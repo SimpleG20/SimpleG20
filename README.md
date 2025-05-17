@@ -10,7 +10,7 @@ Game Developer | Game Designer | Game Programmer
 
 * 🌍  I'm based in São José dos Campos, SP, BR
 * ✉️  You can contact me at [arthurga54@gmail.com](mailto:arthurga54@gmail.com)
-* 🧠  I'm learning .NET | Figma | MySQL
+* 🧠  I'm learning .NET | Figma | Database
 
 ## Work Projects
 
@@ -23,7 +23,7 @@ We made two games and currently we are working on a new one.
 * ### Perigos Virtuais
   <a href="https://play.google.com/store/apps/details?id=com.alphastudios.perigosvirtuais"><img src="https://github.com/SimpleG20/SimpleG20/blob/main/perigos-virtuais-icone-02.png" height="100" width="100"></a>
 
-* ### Caminhos de Triskel <a href="https://www.triskel.org.br/">link</a>
+* ### Caminhos de Triskel <<a href="https://www.triskel.org.br/">link</a>>
   For more information contact <a href="https://www.alphalumen.org.br">Instituto Alpha Lumen</a>
 
 ## College Projects
@@ -33,33 +33,10 @@ that develop games with educational purposes too, I am one of the programmers th
 I've taught an Untiy Course at College and in 2025 I became the Programm Leader.
 </p>
 
-<table>
-  <thead>
-    <tr>
-      <td>Chuva de Tesouros</td>
-      <td>Feira de Bugigangas</td>
-      <td>Tempo Voa</td>
-      <td>Marketplay (SBGames)</td>
-      <td>Amélia pelo Mundo</td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" width="150"><a href="https://cegi.unifesp.br/chuva-de-tesouros"><img src="https://github.com/SimpleG20/SimpleG20/blob/main/Chuva%20de%20Tesouro.png" height="100" width="100"></a></td>
-      <td align="center" width="150"><a href="https://cegi.unifesp.br/feira-de-bugigangas"><img src="https://github.com/SimpleG20/SimpleG20/blob/main/Feira.png" height="100" width="100"></a></td>
-      <td align="center" width="150"><a href="https://cegi.unifesp.br/tempo-voa"><img src="https://github.com/SimpleG20/SimpleG20/blob/main/Tempo%20Voa.png" height="100" width="100"></a></td>
-      <td align="center" width="150"><a href="https://cegi.unifesp.br/marketplay"><img src="https://github.com/SimpleG20/SimpleG20/blob/main/Marketplay.png" height="100" width="100"></a></td>
-      <td align="center" width="150"><a href="https://cegi.unifesp.br/amelia-pelo-mundo"><img src="https://github.com/SimpleG20/SimpleG20/blob/main/Amelia.png" height="100" width="100"></a></td>
-    </tr>
-    <tr>
-      <td align="center">2021</td>
-      <td align="center">2022</td>
-      <td align="center">2023</td>
-      <td align="center">2024</td>
-      <td align="center">2025</td>
-    </tr>
-  </tbody>
-</table>
+| <b>Chuva de Tesouros</b> | <b>Feira de Bugigangas</b> | <b>Tempo Voa</b> | <b>Marketplay (SBGames)</b> | <b>Amélia pelo Mundo</b> |
+| :---: | :---: | :---: |  :---: |  :---: |
+| <a href="https://cegi.unifesp.br/chuva-de-tesouros"><img src="https://github.com/SimpleG20/SimpleG20/blob/main/Chuva%20de%20Tesouro.png" height="100" width="100"></a> | <a href="https://cegi.unifesp.br/feira-de-bugigangas"><img src="https://github.com/SimpleG20/SimpleG20/blob/main/Feira.png" height="100" width="100"></a> | <a href="https://cegi.unifesp.br/tempo-voa"><img src="https://github.com/SimpleG20/SimpleG20/blob/main/Tempo%20Voa.png" height="100" width="100"></a> | <a href="https://cegi.unifesp.br/marketplay"><img src="https://github.com/SimpleG20/SimpleG20/blob/main/Marketplay.png" height="100" width="100"></a> | <a href="https://cegi.unifesp.br/amelia-pelo-mundo"><img src="https://github.com/SimpleG20/SimpleG20/blob/main/Amelia.png" height="100" width="100"></a> |
+| 2021 | 2022 | 2023 | 2024 | 2025 |
   
 ## Personal Projects
 <p>Projects I am working on...</p>
@@ -68,7 +45,7 @@ I've taught an Untiy Course at College and in 2025 I became the Programm Leader.
   In progress, when finished I'll show a sample in <a href="https://simpleg20.itch.io">Itch.io</a>
 
 * ### TCC
-  In progress, released till 2026.
+  In progress, release in 2026.
   
 ## Skills
 
