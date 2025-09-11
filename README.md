@@ -23,7 +23,7 @@ We made two games and currently we are working on a new one.
 * ### Perigos Virtuais
   <a href="https://play.google.com/store/apps/details?id=com.alphastudios.perigosvirtuais"><img src="https://github.com/SimpleG20/SimpleG20/blob/main/perigos-virtuais-icone-02.png" height="100" width="100"></a>
 
-* ### Caminhos de Triskel <<a href="https://www.triskel.org.br/">link</a>>
+* ### Caminhos de Triskel <<a href="https://triskel.alphalumen.org.br/">link</a>>
   For more information contact <a href="https://www.alphalumen.org.br">Instituto Alpha Lumen</a>
 
 ## College Projects
