@@ -10,7 +10,7 @@ Game Developer | Game Designer | Game Programmer
 
 * 🌍  I'm based in São José dos Campos, SP, BR
 * ✉️  You can contact me at [arthurga54@gmail.com](mailto:arthurga54@gmail.com)
-* 🧠  I'm learning .NET | Figma | Database
+* 🧠  I'm learning .NET | Figma | Database | Flutter
 
 ## Work Projects
 
