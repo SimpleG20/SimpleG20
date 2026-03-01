@@ -23,6 +23,8 @@ We made two games and currently we are working on a new one.
 * ### Perigos Virtuais
   <a href="https://play.google.com/store/apps/details?id=com.alphastudios.perigosvirtuais"><img src="https://github.com/SimpleG20/SimpleG20/blob/main/perigos-virtuais-icone-02.png" height="100" width="100"></a>
 
+  Also available on <a href="https://store.steampowered.com/app/4342560/Perigos_Virtuais_com_Bando_Detetive/?l=portuguese">STEAM</a>
+
 * ### Caminhos de Triskel
   For more information contact <a href="https://www.alphalumen.org.br">Instituto Alpha Lumen</a>
 
