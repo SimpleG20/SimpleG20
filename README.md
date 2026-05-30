@@ -5,7 +5,7 @@ Game Developer | Game Designer | Game Programmer
 ------------------------------------------------
 <p align="left">
   Since I entered college I discovered that Programming is my passion. I've been learning Unity since 2020,<br>
-  and I've been developing myself to become a better programmer since them.
+  and I've been continuously improving my programming skills since then.
 </p>
 
 * 🌍  I'm based in São José dos Campos, SP, BR
@@ -16,7 +16,7 @@ Game Developer | Game Designer | Game Programmer
 
 <p align="left">
 Currently I am working at AlphaStudios, a new born Game Studio, part of Instituto Alpha Lumen.<br>
-There, I am the Programm Leader, Game Design Supervisor and also one of the Programmers.<br>
+There, I am the Lead Programmer, Game Design Supervisor and also one of the developers.<br>
 We made two games and currently we are working on a new one.
 </p>
 
@@ -27,6 +27,13 @@ We made two games and currently we are working on a new one.
 
 * ### Caminhos de Triskel
   For more information contact <a href="https://www.alphalumen.org.br">Instituto Alpha Lumen</a>
+
+Responsibilities:
+- Leading the programming team
+- Designing gameplay systems
+- Code reviews and technical mentoring
+- Defining project architecture
+- Collaborating with artists and designers
 
 ## College Projects
 <p align="left"> 
@@ -39,15 +46,14 @@ I've taught an Untiy Course at College and in 2025 I became the Programm Leader.
 | :---: | :---: | :---: |  :---: |  :---: |
 | <a href="https://cegi.unifesp.br/entretenimento/chuva-de-tesouros"><img src="https://github.com/SimpleG20/SimpleG20/blob/main/Chuva%20de%20Tesouro.png" height="100" width="100"></a> | <a href="https://cegi.unifesp.br/entretenimento/feira-de-bugigangas"><img src="https://github.com/SimpleG20/SimpleG20/blob/main/Feira.png" height="100" width="100"></a> | <a href="https://cegi.unifesp.br/entretenimento/tempo-voa"><img src="https://github.com/SimpleG20/SimpleG20/blob/main/Tempo%20Voa.png" height="100" width="100"></a> | <a href="https://cegi.unifesp.br/entretenimento/marketplay"><img src="https://github.com/SimpleG20/SimpleG20/blob/main/Marketplay.png" height="100" width="100"></a> | <a href="https://cegi.unifesp.br/entretenimento/amelia-pelo-mundo"><img src="https://github.com/SimpleG20/SimpleG20/blob/main/Amelia.png" height="100" width="100"></a> |
 | 2021 | 2022 | 2023 | 2024 | 2025 |
-  
-## Personal Projects
-<p>Projects I am working on...</p>
 
-* ### Game Systems
-  In progress, when finished I'll show a sample in <a href="https://simpleg20.itch.io">Itch.io</a>
+## Currently Working On
 
-* ### TCC
-  In progress, release in 2026.
+🔹 BitCore Tycoon (Unity Game)
+🔹 Flutter Applications
+🔹 Go Backend Development
+🔹 Svelte websites
+🔹 Game Design Research
   
 ## Skills
 
